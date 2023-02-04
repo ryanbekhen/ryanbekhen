@@ -4,5 +4,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ryanbekhen)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ryanbekhen.dev/)
 
-![ryanbekhen GitHub Stats](https://server.dooboo.io/github-stats-advanced/ryanbekhen)
-![ryanbekhen GitHub Trophies](https://server.dooboo.io/github-trophies/ryanbekhen)
+![](https://github-readme-stats.vercel.app/api?username=ryanbekhen&show_icons=true&theme=tokyonight&line_height=27)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanbekhen&hide=makefile,dockerfile&theme=tokyonight)
