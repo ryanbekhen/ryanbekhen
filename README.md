@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ryanbekhen.dev/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2031%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -29,5 +29,5 @@ Mac                      7 hrs 52 mins       ███████████�
 ```
 
 
- Last Updated on 11/02/2023 08:50:54 UTC
+ Last Updated on 11/02/2023 17:03:30 UTC
 <!--END_SECTION:waka-->
